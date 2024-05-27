@@ -18,7 +18,7 @@ As a first iteration for this solution, we want to build a web application that 
 
 ### FAQ
 
-- **Can I add a framework like Next?** If you have the time, go for it.
+- **Can I add a framework like Next?** If you have the time, go for it, we want to see you use your favorite tools.
 - **Is user authentication required?** No, it is not required.
 - **Can I use a component library?** Yes, you can use a component library.
 - **What will you be looking for?** Good user experience, reusable code, and a well thought out technical design.
