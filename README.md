@@ -4,11 +4,11 @@
 
 ### Problem definition
 
-After a series of discovery calls we found out a problem that our users are facing. They are having a hard time sharing their memories with friends and family. They are using a combination of social media, messaging apps, and email to share their memories. They are looking for a solution that allows them to store and share their memories in a single place.
+After a series of discovery calls we found out a problem that one of users is facing. They are having a hard time sharing their memories with friends and family. They are using a combination of social media, messaging apps, and email to share their memories. They are looking for a solution that allows them to store and share their memories in a single place.
 
-As a first iteration for this solution, we want to build a web application that allows users to create a memory lane and share it with friends and family. A memory lane is a collection of events that happened in a chronological order. Each event consists of a title, a description, a timestamp, and at least one image.
+As a first iteration for this solution, we want to build a web application that allows a single user to create a memory lane and share it with friends and family. A memory lane is a collection of events that happened in a chronological order. Each event consists of a title, a description, a timestamp, and at least one image.
 
-For this exercise, you are not required to make this work for multiple users with an auth system. You are not required to make a user system.
+For this exercise, you are not required to make this work for multiple users with an auth system. You are not required to make a user system. Assume this is meant for a single user only. We have done this to simplify the exercise.
 
 ## Deliverables
 
