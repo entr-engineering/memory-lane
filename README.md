@@ -16,7 +16,7 @@ For this exercise, you are not required to make this work for multiple users wit
 - An updated README providing a high level explanation of your implementation.
 - The provided mockup is only for reference and inspiration. Feel free to improve it!
 - A Typescript and React app that allows creation of memory lanes by a single user (remember no auth or user system required).
-- Use an appropriate database.
+- Use a database that would be appropriate for a early stage to mid stage startup.
 - The app should have 2 views: a view for a single memory lane and a view for the list of memory lanes.
 - Provide a preview link hosted on a thirdparty.
 
